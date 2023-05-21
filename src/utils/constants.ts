@@ -1,0 +1,1 @@
+export const SatPlan_WEB_VERSION = "0.9.17"
